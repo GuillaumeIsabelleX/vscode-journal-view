@@ -1,4 +1,5 @@
 # VSCode Journal View
+# @stcgoal Integrate an Optimal Design and documentation system in VSCode
 
 This extension adds an explorer viewlet (tree view) to the excellent [vscode-journal](https://marketplace.visualstudio.com/items?itemName=Pajoma.vscode-journal) extension allowing quick access to the journal files.
 
